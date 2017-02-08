@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-	<div class="">
+	<div class="white-wrap">
 		<div id="app">
 		</div>
 	</div>
